@@ -18,10 +18,10 @@ Tarefa
 2ª Parte. Rotas.
   1. Você deve construir um arquivo de rotas/routes, em NodeJS. Ou, uma pasta com module, controller e service em NestJS.
   2. Nestes deve ser desenvolvido rotas de requisição, estruturando da seguinte maneira: 
-    - .get para requisições onde se busca dados.
-    - .post para requisições onde se cria dados.
-    - .patch para requisições onde se atualiza dados.
-    - .delete para requisições onde se deleta dados.
+    a) .get para requisições onde se busca dados.
+    b) .post para requisições onde se cria dados.
+    c) .patch para requisições onde se atualiza dados.
+    d) .delete para requisições onde se deleta dados.
  
 Ferramentas requeridas
 ---------------
